@@ -1,0 +1,28 @@
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Encode Sans Expanded', sans-serif;
+
+} */
+
+
+/* 
+@font-face {
+  font-family: 'Gilroy-Bold';
+  src: local('Gilroy-Bold'),
+    url('./components/assets/fonts/Gilroy-Bold.ttf') format('truetype');
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'Gilroy-Regular';
+  src: local('Gilroy-Regular'),
+    url('./components/assets/fonts/Gilroy-Regular.ttf') format('truetype');
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'Gilroy-Heavy';
+  src: local('Gilroy-Heavy'),
+    url('./components/assets/fonts/Gilroy-Bold.ttf') format('truetype');
+  font-weight: normal;
+} */
