@@ -46,9 +46,9 @@ const Card = () => {
           </Box>
         </Grid>
         <Grid item>
-          <Box>
-            <button className={classes.btn_withdrawal}>Withdrawal</button>
-          </Box>
+          {/* <Box> */}
+          <button className={classes.btn_withdrawal}>Withdrawal</button>
+          {/* </Box> */}
         </Grid>
       </Grid>
     </div>

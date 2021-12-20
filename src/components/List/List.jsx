@@ -22,7 +22,6 @@ const List = () => {
           <Typography className={classes.item}> Khordad</Typography>
         </Grid>
         <Grid item>
-          {' '}
           <Typography className={classes.price}> 243,000T</Typography>
         </Grid>
         <ArrowRight className={classes.icon} />

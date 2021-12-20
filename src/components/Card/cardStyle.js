@@ -15,9 +15,9 @@ const useStyles = makeStyles((theme) => ({
   top_left: {
     height: '24px',
     margin: '0 70px 12px 4px',
-    fontFamily: 'Gilroy-Bold',
+    fontFamily: 'Gilroy',
     fontSize: '20px',
-    fontWeight: 'bold',
+    fontWeight: '400',
     fontStretch: 'normal',
     fontStyle: 'normal',
     lineHeight: 'normal',
@@ -27,7 +27,7 @@ const useStyles = makeStyles((theme) => ({
   top_right: {
     height: '28px',
     margin: '0 1px 8px 29px',
-    fontFamily: 'Gilroy-Regular',
+    fontFamily: 'Gilroy',
     fontSize: '12px',
     fontWeight: 'normal',
     fontStretch: 'normal',
@@ -39,7 +39,7 @@ const useStyles = makeStyles((theme) => ({
   
   center_price: {
     height: '36px',
-    fontFamily: 'Gilroy-Bold',
+    fontFamily: 'Gilroy',
     margin: '8px 29px 0px 4px',
     fontSize: '30px',
     fontWeight: 'bold',
@@ -67,7 +67,7 @@ const useStyles = makeStyles((theme) => ({
   withdrawal_limit: {
     height: '24px',
     margin: '0px 31px 0px 4px',
-    fontFamily: 'Gilroy-Bold',
+    fontFamily: 'Gilroy',
     fontSize: '20px',
     fontWeight: 'bold',
     fontStretch: 'normal',
@@ -79,7 +79,7 @@ const useStyles = makeStyles((theme) => ({
   bottom_price: {
     height: '29px',
     margin: ' 12px 0px 0 4px',
-    fontFamily: 'Gilroy-Regular',
+    fontFamily: 'Gilroy',
     fontSize: ' 24px',
     fontWeight: 'bold',
     fontStretch: 'normal',
@@ -93,7 +93,7 @@ const useStyles = makeStyles((theme) => ({
     marginLeft: '5px',
     fontSize: '14px',
     letterSpacing: ' 0.35px',
-    fontFamily: 'Gilroy-Regular',
+    fontFamily: 'Gilroy',
   },
   btn_withdrawal: {
     width: ' 114px',
@@ -103,7 +103,7 @@ const useStyles = makeStyles((theme) => ({
     borderRadius: '8px',
     boxShadow: '0 6px 10px 0 rgba(53, 130, 255, 0.24)',
     backgroundColor: '#007aff',
-    fontfamily: 'Gilroy-Regular',
+    fontFamily: 'Gilroy',
     fontSize: '16px',
     fontWeight: 'bold',
     fontStretch: 'normal',
