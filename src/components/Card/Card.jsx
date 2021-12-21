@@ -37,7 +37,8 @@ const Card = () => {
         <div className={classes.line}></div>
         {/* ---withdrawal limit */}
         <Grid item>
-          <Box className={classes.withdrawal_limit}>Withdrawal Limit</Box>
+          <Box className={classes.withdrawal_limit}> Withdrawal Limit
+        </Box>
         </Grid>
         {/* ---bottom */}
         <Grid item>

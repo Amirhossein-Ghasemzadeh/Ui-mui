@@ -18,18 +18,19 @@ const theme = createTheme({
           src: local('Gilroy'), local('Gilroy-Regular'), url(${GilroyRegular}) format('ttf');
         }
         @font-face {
-          font-family: 'Gilroy';
+          font-family: 'Gilroy-Regular';
           font-style: normal;
           font-display: swap;
           font-weight: 700;
           src: local('Gilroy'), local('Gilroy-Bold'), url(${GilroyBold}) format('woff');
         }
         @font-face {
-          font-family: 'Gilroy';
+          font-family: 'Gilroy;
           font-style: normal;
           font-display: swap;
           font-weight: 900;
           src: local('Gilroy'), local('Gilroy-Heavy'), url(${GilroyHeavy}) format('ttf');
+
         }
       `,
     },

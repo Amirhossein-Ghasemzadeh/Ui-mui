@@ -15,7 +15,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor: '#fff',
   },
   item: {
-    fontFamily: 'Gilroy-Regular',
+    fontFamily: 'Gilroy',
     fontSize: '14px',
     fontWeight: 'bold',
     fontStretch: 'normal',
@@ -25,7 +25,7 @@ const useStyles = makeStyles((theme) => ({
     color: '#242833',
   },
   price: {
-    fontFamily: 'Gilroy-Bold',
+    fontFamily: 'Gilroy',
     fontSize: '16px',
     fontWeight: '600',
     fontStretch: 'normal',

@@ -14,7 +14,7 @@ const useStyles = makeStyles((theme) => ({
   time: {
     height: '18px',
     margin: '0 229px 0 0',
-    fontFamily: 'Gilroy-Bold',
+    fontFamily: 'Gilroy',
     fontSize: '15px',
     fontWeight: '600',
     fontStretch: 'normal',
@@ -30,7 +30,7 @@ const Topbar = () => {
   return (
     <Grid container className={classes.topbar}>
       <Grid item className={classes.time}>
-        <Typography>9:41</Typography>
+      9:41
       </Grid>
       <Grid item>
         <SignalCellularAltIcon />
